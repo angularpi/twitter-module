@@ -1,5 +1,5 @@
 # twitter-module
-<strong>Objective:</strong> Write the build blocks of a twitter bot to be used in other apps and scripts.
+<strong>Objective:</strong> Write the build block of a twitter bot to be used in other apps and scripts.
 
 <strong>Approach:</strong> Use the tweepy library (see reference in this <a href="http://www.tweepy.org/">link</a>)
 
